@@ -1,0 +1,1 @@
+#Django App deployed in Lambda AWS 
