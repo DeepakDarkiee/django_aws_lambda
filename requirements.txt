@@ -1,0 +1,5 @@
+django
+zappa
+troposphere<3
+db-sqlite3
+django-s3-storage-0.13.4

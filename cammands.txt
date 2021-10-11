@@ -1,0 +1,1000 @@
+ 1009  celery -A colossus worker   -l info -B 
+ 1010  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1011  python manage.py runserver
+ 1012  git status
+ 1013  git add djangobabu/urls.py templates/blog/articles.html templates/blog/post_detail.html templates/home/home.html templates/home/sidebar.html
+ 1014  git status
+ 1015  git commit -m "blog removed"
+ 1016  git push origin master
+ 1017  git status
+ 1018  git add Django Babu
+ 1019  git add templates/base.html
+ 1020  git commit -m "title" 
+ 1021  git add templates/base.html
+ 1022  git commit -m "title" 
+ 1023  git push origin master
+ 1024  gitk
+ 1025  python manage.py runserver
+ 1026  git add templates/base.html
+ 1027  git commit -m "title" 
+ 1028  git push origin master
+ 1029  git add templates/base.html
+ 1030  git commit -m "title" 
+ 1031  git push origin master
+ 1032  git status
+ 1033  git add templates/base.html templates/blog/post_detail.html
+ 1034  git commit -m "ssl"
+ 1035  git push origin master
+ 1036  git add templates/base.html templates/blog/post_detail.html
+ 1037  git commit -m "ssl"
+ 1038  git push origin master
+ 1039  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1040  pip3 install pyseoanalyzer
+ 1041  python pg.py 
+ 1042  python analyzer.py https://www.sethserver.com/ -f html > results.html
+ 1043  seoanalyze http://www.domain.com/ --output-format html
+ 1044  seoanalyze http://www.djangobabu.com/ --output-format html
+ 1045  seoanalyze http://www.djangobabu.com/ --output-format html > test.html
+ 1046  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1047  git clone https://github.com/vsergeyev/django-visual.git
+ 1048  cd django-visual/
+ 1049  code .
+ 1050  virtualenv env
+ 1051  source env/bin/activate 
+ 1052  pip install -r requirements.txt 
+ 1053  cd django_visual/
+ 1054  python manage.py runserver
+ 1055  sudo apt install tinda
+ 1056  sudo apt install tilda
+ 1057  sudo remove install tinda
+ 1058  sudo remove install tilnda
+ 1059  sudo remove install tilda
+ 1060  sudoapt  remove install tilda
+ 1061  sudo apt  remove install tilda
+ 1062  sudo apt  remove  tilda
+ 1063  rq
+ 1064  cd Pakages/
+ 1065  mkdir convert_to_queryset
+ 1066  cd convert_to_queryset/
+ 1067  mkdir convert_to_queryset
+ 1068  cd convert_to_queryset/
+ 1069  touch convert.py
+ 1070  cd ..
+ 1071  code .
+ 1072  poetry init
+ 1073  poetry shell
+ 1074  pyenv global 3.6
+ 1075  pyenv global 3.6.6
+ 1076  source env/bin/activate 
+ 1077  python3 manage.py runserver
+ 1078  git status
+ 1079  git add templates/blog/search.html
+ 1080  git commit -m "searching updated"
+ 1081  git push origin master
+ 1082  python3 manage.py runserver
+ 1083  pyenv local 3.6.6
+ 1084  poetry init
+ 1085  poetry install
+ 1086  poetry shell
+ 1087  . /home/thoughtwin/Pakages/convert_to_queryset/.venv/bin/activate
+ 1088  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1089  poetry run python manage.py makemigrations
+ 1090  poetry run python manage.py migrate
+ 1091  poetry run python manage.py makemigrations
+ 1092  poetry run python manage.py migrate
+ 1093  poetry run python manage.py runserver
+ 1094  poetry run python manage.py makemigrations
+ 1095  poetry run python manage.py migrate
+ 1096  poetry run python manage.py runserver
+ 1097  git add .
+ 1098  git commit -m "relation profile and company"
+ 1099  git push 
+ 1100  git push origin master
+ 1101  git push origin main
+ 1102  celery -A uploads worker -P threads  -l info -B 
+ 1103  source .venv/bin/activate 
+ 1104  celery -A document_manager worker -P threads  -l info -B 
+ 1105  poetry add  convert-to-queryset
+ 1106  poetry run python manage.py runserver
+ 1107  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1108  sudo shutdown now
+ 1109  poetry publish
+ 1110  git init
+ 1111  git add README.md
+ 1112  git commit -m "first commit"
+ 1113  git branch -M master
+ 1114  git remote add origin https://github.com/DeepakDarkiee/convert_to_queryset.git
+ 1115  git push -u origin master
+ 1116  git push -u origin master -f
+ 1117  git add .
+ 1118  git config user.name "deepak patidar"
+ 1119  git config user.email "info.deepakpatidar@gmail.com"
+ 1120  git push origin master
+ 1121  git add .
+ 1122  git commit -m "convert_to_queryset"
+ 1123  git push origin master
+ 1124  git add .
+ 1125  git commit -m "readme.md updated"
+ 1126  git push origin master
+ 1127  poetry build
+ 1128  poetry publish
+ 1129  poetry build
+ 1130  poetry publish
+ 1131  poetry build
+ 1132  poetry publish
+ 1133  git add .
+ 1134  git commit -m "readme"
+ 1135  git push origin master
+ 1136  poetry build
+ 1137  poetry publish
+ 1138  poetry build
+ 1139  poetry publish
+ 1140  git add .
+ 1141  fit commit -m "readme"
+ 1142  git commit -m "readme"
+ 1143  git push origin master
+ 1144  poetry build
+ 1145  poetry publish
+ 1146  git add .
+ 1147  git commit -m "readme"
+ 1148  git push origin master
+ 1149  poetry build
+ 1150  poetry publish
+ 1151  git status
+ 1152  git add templates/robots.txt
+ 1153  git commit -m "updated robot.txt"
+ 1154  git push origin master
+ 1155  git status
+ 1156  git add templates/robots.txt
+ 1157  git commit -m "updated robot.txt"
+ 1158  git push origin master
+ 1159  git status
+ 1160  git add .
+ 1161  git commit -m celery updated
+ 1162  git push origin master
+ 1163  git commit -m "celery updated"
+ 1164  git push origin master
+ 1165  python manage.py runserver
+ 1166  source env/bin/activate 
+ 1167  python manage.py runserver
+ 1168  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1169  shutdown -P + 25
+ 1170  shutdown -P +25
+ 1171  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1172  python manage.py runserver
+ 1173  git status
+ 1174  git add  templates/blog/post_detail.html templates/home/home.html
+ 1175  git commit -m "h1 added"
+ 1176  git push origin master
+ 1177  git status
+ 1178  git add templates/base.html
+ 1179  git commit -m "p:domain_verufy"
+ 1180  git push origin master
+ 1181  git status
+ 1182  git add templates/base.html
+ 1183  git status
+ 1184  git commit -m "meta tag"
+ 1185  git push origin master
+ 1186  git add templates/base.html
+ 1187  git commit -m "meta tag"
+ 1188  git push origin master
+ 1189  git add templates/base.html
+ 1190  git commit -m "meta tag"
+ 1191  git push origin master
+ 1192  python manage.py runserver
+ 1193  git add templates/base.html
+ 1194  git status
+ 1195  git add home/urls.py
+ 1196  git commit -m "urls"
+ 1197  git commit -m "meta tag"
+ 1198  git push origin master
+ 1199  git add templates/base.html
+ 1200  git commit -m "meta tag"
+ 1201  git push origin master
+ 1202  git status
+ 1203  git add templates/robots.txt
+ 1204  git commit -m "robots.txt"
+ 1205  git push origin master
+ 1206  git status
+ 1207  git add home/signals.py
+ 1208  git commit -m "signal email"
+ 1209  git push origin master
+ 1210  git status
+ 1211  git add templates/home/footer.html templates/nav.html
+ 1212  git commit -m "about page #"
+ 1213  git push origin master
+ 1214  python manage.py runserver
+ 1215  git status\
+ 1216  git status
+ 1217  python manage.py runserver
+ 1218  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1219  celery -A djangobabu worker -P threads  -l info -B 
+ 1220  git add .
+ 1221  git commit -m "licence"
+ 1222  git push origin master
+ 1223  poetry build
+ 1224  poetry publish
+ 1225  git clone https://github.com/danyaPostfactum/ckeditor-office2013-skin.git
+ 1226  source env/bin/activate 
+ 1227  python manage.py runserver
+ 1228  git status
+ 1229  git add blog/admin.py blog/models.py
+ 1230  git commit -m "banner preview"
+ 1231  git push origin master
+ 1232  python manage.py runserver
+ 1233  git status
+ 1234  git add blog/admin.py
+ 1235  git commit -m "status in admin"
+ 1236  git push origin master
+ 1237  python manage.py runserver
+ 1238  git commit -m "status in admin"
+ 1239  git add blog/admin.py
+ 1240  git commit -m "status in admin"
+ 1241  python manage.py runserver
+ 1242  git push origin master
+ 1243  python manage.py runserver
+ 1244  git status
+ 1245  git add templates/blog/post_detail.html  blog/admin.py blog/models.py  templates/base.html blog/migrations/0012_post_description.py
+ 1246  git status
+ 1247  git commit -m "meta tag updated"
+ 1248  git push origin master
+ 1249  python manage.py runserver
+ 1250  git status
+ 1251  git add .
+ 1252  git commit -m "description added"
+ 1253  git push origin master
+ 1254  python manage.py runserver
+ 1255  git status
+ 1256  git add djangobabu/settings.py staticfiles/css/main71de.css static/ckeditor/ckeditor/skins/kama/ static/ckeditor/ckeditor/skins/office2013/ staticfiles/ckeditor/ckeditor/skins/kama/
+ 1257  git status
+ 1258  git commit -m "ck updated"
+ 1259  git push origin master
+ 1260  python manage.py runserver
+ 1261  git status
+ 1262  git checkout blog/migrations/0012_alter_post_banner.py
+ 1263  python manage.py runserver
+ 1264  git status
+ 1265  git add djangobabu/urls.py home/views.py 
+ 1266  gitk
+ 1267  git status
+ 1268  git commit -m "404 page"
+ 1269  git push origin master
+ 1270  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1271  source env/bin/activate 
+ 1272  python manage.py runserver
+ 1273  git status
+ 1274  git add templates/500.html blog/views.py home/views.py static/logo/logo.png 
+ 1275  git status
+ 1276  git commit -m "500"
+ 1277  git push origin master
+ 1278  sudo aptb install tor
+ 1279  sudo apt install tor
+ 1280  tor
+ 1281  sudo snap install tor
+ 1282  sudo add-apt-repository ppa:micahflee/ppa
+ 1283  sudo apt install torbrowser-launcher
+ 1284  tor
+ 1285  git status
+ 1286  git add templates/blog/post_detail.html
+ 1287  git commit -m "descriptionj meta safe"
+ 1288  git push origin master
+ 1289  git add templates/blog/post_detail.html
+ 1290  git commit -m "descriptionj meta safe"
+ 1291  git push origin master
+ 1292  python manage.py makemigrations
+ 1293  source env/bin/activate 
+ 1294  python manage.py makemigrations
+ 1295  python manage.py migrate
+ 1296  python manage.py makemigrations
+ 1297  git status
+ 1298  git add blog/migrations/0014_alter_post_description.py blog/models.py
+ 1299  git commit -m "textfield for description"
+ 1300  git push origin master
+ 1301  python manage.py runserver
+ 1302  python manage.py runserver 8001
+ 1303  git status
+ 1304  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1305  poetry run python manage.py runserver
+ 1306  class UserCreationForm(forms.ModelForm):
+ 1307  source /home/thoughtwin/Downloads/cloud/env/bin/activate
+ 1308  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1309  source env/bin/activate 
+ 1310  python manage.py runserver
+ 1311  git status
+ 1312  git add templates/base.html
+ 1313  python manage.py runserver
+ 1314  python manage.py collectstatic
+ 1315  python manage.py runserver
+ 1316  git status
+ 1317  git add templates/base.html
+ 1318  git commit -m "highlighter.js added"
+ 1319  git push origin master
+ 1320  python manage.py runserver
+ 1321  pip install razorpay
+ 1322  pip freeze > requirements.txt 
+ 1323  python manage.py runserver
+ 1324  git status
+ 1325  git checkout staticfiles/ckeditor/ckeditor/skins/office2013/ templates/payment/ requirements.txt home/views.py home/urls.py
+ 1326  git status
+ 1327  git checkout staticfiles/ckeditor/ckeditor/skins/office2013/ templates/payment/ requirements.txt home/views.py home/urls.py
+ 1328  git checkout  templates/payment/ requirements.txt home/views.py home/urls.py
+ 1329  git status
+ 1330  python manage.py runserver
+ 1331  git status 
+ 1332  git add templates/base.html
+ 1333  git commit -m "buy me coffe\"
+ 1334  git commit -m "buy me coffe"
+ 1335  git push origin master
+ 1336  python manage.py runserver
+ 1337  git status
+ 1338  git add staticfiles/ckeditor/ckeditor/skins/office2013/ templates/nav.html
+ 1339  git commit -m "nav buymecoffee"
+ 1340  git push origin master
+ 1341  git status
+ 1342  git checkout templates/payment/ requirements.txt
+ 1343  git checkout templates/payment/
+ 1344  git checkout requirements.txt
+ 1345  git status
+ 1346  pip install django-social-widgets
+ 1347  python manage.py runserver
+ 1348  git status
+ 1349  git checkout templates/home/sidebar.html templates/base.html
+ 1350  git status
+ 1351  python manage.py runserver
+ 1352  git statuds
+ 1353  git status
+ 1354  python manage.py runserver
+ 1355  pip uninstall  django-social-widgets
+ 1356  python manage.py runserver
+ 1357  source env/bin/activate 
+ 1358  python manage.py runserver
+ 1359  git astatus
+ 1360  git status
+ 1361  git add templates/home/sidebar.html templates/blog/post_detail.html templates/base.html
+ 1362  git commit -m "discuss"
+ 1363  git push origin master
+ 1364  git status
+ 1365  git add templates/home/sidebar.html
+ 1366  git commit -m "discuss"
+ 1367  git push origin master
+ 1368  python manage.py runserver
+ 1369  git status
+ 1370  git add templates/blog/post_detail.html
+ 1371  git commit -m "discuss"
+ 1372  git push origin master
+ 1373  python manage.py runserver
+ 1374  git status
+ 1375  git add templates/home/home.html
+ 1376  git commit -m "home page comments count"
+ 1377  git push origin master
+ 1378  python manage.py runserver
+ 1379  git status
+ 1380  git add templates/home/home.html templates/home/google_search.html
+ 1381  git add home/urls.py home/views.py
+ 1382  python manage.py runserver
+ 1383  git status
+ 1384  git add templates/nav.html templates/home/google_search.html
+ 1385  git status
+ 1386  git commit -m "gcse seachbox"
+ 1387  git push origin master
+ 1388  python manage.py runserver
+ 1389  git status
+ 1390  git add templates/home/google_search.html
+ 1391  git commit -m "google search updated"
+ 1392  git push origin master
+ 1393  python manage.py runserver
+ 1394  cd pemfile/
+ 1395  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1396  poetry run python manage.py runserver 8001
+ 1397  git status
+ 1398  git add .
+ 1399  git commit -m "bug fixed profile"
+ 1400  git push origin master
+ 1401  git push origin main
+ 1402  poetry run python manage.py runserver 8001
+ 1403  poetry run python manage.py runserver
+ 1404  git status
+ 1405  git checkout .
+ 1406  poetry run python manage.py runserver
+ 1407  celery -A document_manager -l info thread -P
+ 1408  celery -A proj worker -l info -B threads -P
+ 1409  source .venv/bin/activate 
+ 1410  celery -A proj worker -l info -B threads -P
+ 1411  celery -A proj worker -l info -B 
+ 1412  celery -A document_manager thread -P worker -l info -B 
+ 1413  celery -A document_manager threads -P worker -l info -B 
+ 1414  celery -A document_manager  worker -P threads -l info -B 
+ 1415  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1416  cd pemfile/
+ 1417  ssh root@80.211.66.53
+ 1418  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1419  sudo scp  -i djangobabu.pem ubuntu@18.117.161.248:/var/www/djangobabu/djangobabu_db.sql /Desktop
+ 1420  sudo scp  -i djangobabu.pem ubuntu@18.117.161.248:/var/www/djangobabu/djangobabu_db.sql .
+ 1421  chmod 777 djangobabu_db.sql 
+ 1422  sudo chmod 777 djangobabu_db.sql 
+ 1423  cd pemfile/
+ 1424  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1425  git status
+ 1426  git add templates/base.html
+ 1427  git commit -m "script"
+ 1428  git push origin master
+ 1429  python manage.py runserver
+ 1430  source env/bin/activate 
+ 1431  python manage.py runserver
+ 1432  sudo apt remove komorebi
+ 1433  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1434  python manage.py runserver
+ 1435  git status
+ 1436  git add templates/base.html templates/base.html
+ 1437  git status
+ 1438  git add static/images/
+ 1439  git status
+ 1440  git commit -m "loader"
+ 1441  git push origin master
+ 1442  python manage.py runserver
+ 1443  git status
+ 1444  git add static/css/code.css
+ 1445  git add add templates/base.html
+ 1446  git status
+ 1447  git add templates/base.html
+ 1448  git commit -m "code.css added"
+ 1449  git push origin master
+ 1450  python manage.py runserver
+ 1451  poetry run python manage.py runserver
+ 1452  poetry install
+ 1453  poetry run python manage.py runserver
+ 1454  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1455  python manage.py runserver
+ 1456  git status
+ 1457  git add  templates/home/home.html templates/blog/post_detail.html
+ 1458  git commit -m "read time home and detail removed"
+ 1459  git push origin master
+ 1460  cd pemfile/
+ 1461  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1462  source /home/thoughtwin/Projects/CN/cn_todo/.venv/bin/activate
+ 1463  celery -A document_manager  worker -P threads -l info -B 
+ 1464  source .venv/bin/activate 
+ 1465  celery -A document_manager  worker -P threads -l info -B 
+ 1466  poetry run python manage.py runserver
+ 1467  cd pemfile/
+ 1468  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1469  source /home/thoughtwin/Projects/CN/django-bridger/.venv/bin/activate
+ 1470  source /home/thoughtwin/Projects/CN/cn_todo/.venv/bin/activate
+ 1471  poetry run python manage.py 8002
+ 1472  poetry run python manage.py runserver  8002
+ 1473  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1474  python manage.py migrate
+ 1475  celery -A djangobabu worker -l info -B
+ 1476  poetry run python manage.py runserver 8001
+ 1477  source env/bin/activate 
+ 1478  python manage.py runserver
+ 1479  git status
+ 1480  gitk
+ 1481  python manage.py runserver
+ 1482  git status
+ 1483  git add templates/base.html
+ 1484  git status
+ 1485  git commit -m "status updated"
+ 1486  git push origin master
+ 1487  python manage.py runserver
+ 1488  git status
+ 1489  git add templates/base.html
+ 1490  git commit -m "sigma"
+ 1491  git push origin master
+ 1492  python manage.py runserver
+ 1493  git status
+ 1494  python manage.py runserver
+ 1495  git status
+ 1496  git commit -m "ads"
+ 1497  git add templates/base.html
+ 1498  git commit -m "ads"
+ 1499  git push origin master
+ 1500  python manage.py runserver
+ 1501  git status
+ 1502  git add templates/base.html
+ 1503  git commit -m "ads"
+ 1504  git push origin master
+ 1505  git add templates/base.html
+ 1506  git commit -m "ads"
+ 1507  git push origin master
+ 1508  python manage.py runserver
+ 1509  git status
+ 1510  git add templates/home/home.html
+ 1511  git commit -m "ads"
+ 1512  git push origin master
+ 1513  python manage.py runserver
+ 1514  poetry run python manage.py runserver 8001
+ 1515  python manage.py makemigrations
+ 1516  source .venv/bin/activate 
+ 1517  python manage.py makemigrations
+ 1518  python manage.py migrate
+ 1519  poetry run python manage.py runserver 8001
+ 1520  git status
+ 1521  poetry run python manage.py runserver 8001
+ 1522  poetry run python manage.py shell
+ 1523  source /home/thoughtwin/Projects/CN/django-bridger/.venv/bin/activate
+ 1524  poetry run python manage.py shell
+ 1525  poetry run python manage.py runserver
+ 1526  git status
+ 1527  git add .
+ 1528  git commit -m "updated profile and company"
+ 1529  git push
+ 1530  git push origin main
+ 1531  git push origin master
+ 1532  poetry run python manage.py shell
+ 1533  poetry run python manage.py runserver
+ 1534  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1535  poetry run python manage.py shell
+ 1536  python manage.py runserver
+ 1537  python manage.py runserver 8001
+ 1538  git status
+ 1539  pip freeze > requirements.txt 
+ 1540  git status
+ 1541  git add requirements.txt home/views.py home/utils.py home/tasks.py home/signals.py djangobabu/settings.py db.sqlite3 staticfiles/css/code.css staticfiles/images/
+ 1542  git status
+ 1543  git add djangobabu/production.py  djangobabu/settings1.py
+ 1544  git commit -m "celery updated"
+ 1545  git push orgin master
+ 1546  git push origin master
+ 1547  git status
+ 1548  python manage.py runserver 8001
+ 1549  git status
+ 1550  git add templates/base.html
+ 1551  git commit -m "loading hide"
+ 1552  git push origin master
+ 1553  pip install django-taggit-autocomplete-modified
+ 1554  python manage.py runserver 8001
+ 1555  python manage.py collectstatic
+ 1556  python manage.py runserver 8001
+ 1557  pip install django-tagging-autocomplete
+ 1558  python manage.py makemigrations
+ 1559  git status
+ 1560  git checkout blog/urls.py blog/models.py
+ 1561  python manage.py runserver 8001
+ 1562  python manage.py makemigrations
+ 1563  python manage.py migrate
+ 1564  python manage.py runserver 8001
+ 1565  git status
+ 1566  git add blog/models.py blog/admin.py djangobabu/urls.py 
+ 1567  git status
+ 1568  pip freeze > requirements.txt 
+ 1569  git status
+ 1570  git add requirements.txt
+ 1571  git commit -m "taggit suggest aded"
+ 1572  git push origin master
+ 1573  git status
+ 1574  git add djangobabu/settings.py
+ 1575  git commit -m "settings"
+ 1576  git push origin master
+ 1577  git status
+ 1578  git add .
+ 1579  git push origin main
+ 1580  git cehckout dev 
+ 1581  git checkout dev 
+ 1582  git checkout -b  dev 
+ 1583  git add .
+ 1584  git commit -m "dev"
+ 1585  git push origin dev
+ 1586  git checkout master
+ 1587  git status
+ 1588  git checkout dev
+ 1589  git status
+ 1590  python manage.py runserver
+ 1591  cd pemfile/
+ 1592  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1593  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1594  celery -A djangobabu worker -l info -B
+ 1595  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1596  pip install django-taggit-autosuggest
+ 1597  python manage.py runserver
+ 1598  python manage.py runserver 8001
+ 1599  gitk
+ 1600  git reset --soft
+ 1601  python manage.py runserver 8001
+ 1602  git reset --hard head
+ 1603  git reset --hard 
+ 1604  git status
+ 1605  git add blog/models.py djangobabu/urls.py
+ 1606  git commit -m "taggit suggest removge"
+ 1607  git psuh origin master
+ 1608  git push origin master
+ 1609  git push origin dev
+ 1610  git checkout master 
+ 1611  git status
+ 1612  git push originj master
+ 1613  git push origin master
+ 1614  git stash
+ 1615  git pull origin master
+ 1616  git stash pop
+ 1617  git add blog/models.py djangobabu/urls.py
+ 1618  git commit -m "taggit removed"
+ 1619  git push origin master
+ 1620  python manage.py runserver
+ 1621  git checkout dev
+ 1622  python manage.py runserver
+ 1623  python manage.py runserver 8001
+ 1624  git checkout master
+ 1625  python manage.py runserver 8001
+ 1626  git status
+ 1627  git checkout dev 
+ 1628  git add db.sqlite3 
+ 1629  git checkout dev 
+ 1630  git checkout db.sqlite3 
+ 1631  git checkout dev 
+ 1632  git status
+ 1633  git restore --staged db.sqlite3
+ 1634  git status
+ 1635  git checkout .
+ 1636  git checkout dev 
+ 1637  python manage.py runserver 8001
+ 1638  git checkout master 
+ 1639  git checkout db.sqlite3
+ 1640  git checkout master 
+ 1641  python manage.py runserver 8001
+ 1642  git status
+ 1643  python manage.py runserver 8001
+ 1644  git status
+ 1645  git add .
+ 1646  git commit -m "" taggit
+ 1647  git commit -m "taggit"
+ 1648  git push origin master
+ 1649  git status
+ 1650  git checkout dev \
+ 1651  git checkout dev 
+ 1652  python manage.py runserver 8001
+ 1653  git status
+ 1654  git checkout master 
+ 1655  git status
+ 1656  git add djangobabu/settings.py
+ 1657  git commit -m "taggit"
+ 1658  git push origin master
+ 1659  git add djangobabu/settings.py
+ 1660  git status
+ 1661  git restore --stagged
+ 1662  git restore --stagged djangobabu/settings.py
+ 1663  git status
+ 1664  git restore --staged djangobabu/settings.py
+ 1665  git status
+ 1666  python manage.py runserver 8001
+ 1667  python manage.py migrate
+ 1668  git status
+ 1669  poetry run python manage.py runserver
+ 1670  sudo apt update
+ 1671  sudo apt upgrade
+ 1672  sudo apt autoremove
+ 1673  source env/bin/activate 
+ 1674  cd Projects/
+ 1675  git clone https://github.com/polotno-project/polotno-studio.git
+ 1676  cd polotno-studio/
+ 1677  code .
+ 1678  cd pemfile/
+ 1679  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1680  npm install
+ 1681  npm install -g npm 
+ 1682  npm start
+ 1683  git status
+ 1684  git add templates/base.html
+ 1685  git comit -m "adsense added"
+ 1686  git commit -m "adsense added"
+ 1687  git push origin master
+ 1688  git status
+ 1689  git add templates/blog/post_detail.html
+ 1690  git commit -m "adsense added"
+ 1691  git status
+ 1692  git push origin master
+ 1693  source env/bin/activate 
+ 1694  python manage.py runserver
+ 1695  git status
+ 1696  git add templates/blog/post_detail.html templates/home/home.html
+ 1697  git commit -m "shocial share comented"
+ 1698  git push origin master
+ 1699  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1700  code ~/.bashrc
+ 1701  ls
+ 1702  lls
+ 1703  lsl
+ 1704  ls
+ 1705  l
+ 1706  sl
+ 1707  ls
+ 1708  lslss
+ 1709  sl
+ 1710  ls
+ 1711  poetry run python manage.py runserver
+ 1712  sudo apt update
+ 1713  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+ 1714  $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
+ 1715  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+ 1716  $ apt-get install docker-ce docker-compose -y
+ 1717  apt-get install docker-ce docker-compose -y
+ 1718  sudo apt-get install docker-ce docker-compose -y
+ 1719  docker-compose -v
+ 1720  cd pemfile/
+ 1721  ssh -i djangobabu.pem ubuntu@18.117.161.248
+ 1722  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1723  celery -A djangobabu worker -l info -B
+ 1724  source /home/thoughtwin/Personal/djangobabu/env/bin/activate
+ 1725  git status
+ 1726  git add templates/base.html
+ 1727  git commit -m "sigmatraffic link removed"
+ 1728  git push origin master
+ 1729  git add templates/base.html
+ 1730  git commit -m "sigmatraffic link removed"
+ 1731  git push origin master
+ 1732  python manage.py runserverf
+ 1733  python manage.py runserver
+ 1734  python manage.py runserver 8001
+ 1735  git status
+ 1736  git add home/signals.py home/tasks.py home/utils.py
+ 1737  git commit -m "post mail"
+ 1738  git push origin master
+ 1739  python manage.py runserver 8001
+ 1740  git status
+ 1741  git add home/tasks.py  home/utils.py  home/signals.py
+ 1742  git status
+ 1743  git commit -m "postb detai"
+ 1744  git push origin master
+ 1745  python manage.py runserver 8001
+ 1746  git status
+ 1747  git add templates/blog/post_detail.html
+ 1748  git commit -m "slicing added in detail page"
+ 1749  git push origi master
+ 1750  git push origin master
+ 1751  python manage.py runserver 8001
+ 1752  git status
+ 1753  git add  home/utils.py
+ 1754  git commit -m "list added"
+ 1755  git push origin master
+ 1756  python manage.py runserver 8001
+ 1757  django-admin startproject django_aws_lambda
+ 1758  cd django_aws_lambda/
+ 1759  code .
+ 1760  pip install -r requirements.txt
+ 1761  virualenv env
+ 1762  virtualenv env
+ 1763  source env/bin/activate 
+ 1764  pip install -r requirements.txt
+ 1765  python manage.py startapp hello
+ 1766  mkdir templates
+ 1767  mkdir static
+ 1768  python manage.py runserver
+ 1769  python manage.py runserver 8001
+ 1770  python manage.py migrate
+ 1771  python manage.py runserver 8001
+ 1772  export DJANGO_SETTINGS_MODULE=django_aws_lambda.local
+ 1773  python manage.py migrate
+ 1774  python manage.py createsuperuser
+ 1775  python manage.py collectstatic
+ 1776  python manage.py runserver
+ 1777  python manage.py runserver 8001
+ 1778  python manage.py runserver 
+ 1779  export DJANGO_SETTINGS_MODULE=django_aws_lambda.local
+ 1780  python manage.py runserver 
+ 1781  export DJANGO_SETTINGS_MODULE=django_aws_lambda.local
+ 1782  python manage.py runserver 
+ 1783  export DJANGO_SETTINGS_MODULE=django_aws_lambda.local
+ 1784  python manage.py runserver 
+ 1785  source env/bin/activate 
+ 1786  npm init
+ 1787  npm install -g serverless
+ 1788  npm audit fix --force
+ 1789  npm install -P serverless-dotenv-plugin
+ 1790  npm install -P serverless-prune-plugin
+ 1791  npm install -P serverless-python-requirements
+ 1792  npm install -P serverless-wsgi
+ 1793  docker run -it -v $(pwd):/root/src/ -v /Users/<your_user>/.aws:/root/.aws amazonlinux:latest bash
+ 1794  code .
+ 1795  mkdir .aws
+ 1796  pip install awscli
+ 1797  awscli
+ 1798  pip install django
+ 1799  zappa
+ 1800  virtualenv env
+ 1801  source env/bin/activate 
+ 1802  pip install -r re
+ 1803  ls
+ 1804  pip install -r zappa
+ 1805  pip install -r rfequirements.txt
+ 1806  pip install -r requirements.txt
+ 1807  ls
+ 1808  pip install -r requirements.txt
+ 1809  mkdir django-app
+ 1810  cd django-app
+ 1811  django-admin startproject sampledjango .
+ 1812  python manage.py runserver
+ 1813  zappa init
+ 1814  pip install zappa
+ 1815  zappa init
+ 1816  python
+ 1817  python3
+ 1818  pyenv versions
+ 1819  pyenv local 3.6.10
+ 1820  pyenv versions
+ 1821  python3
+ 1822  python
+ 1823  pyenv global 3.6.10
+ 1824  python
+ 1825  pyenv local 3.6.10
+ 1826  zappa init
+ 1827  virtualenv .env
+ 1828  source .env/bin/activate 
+ 1829  zappa init
+ 1830  pip install -r requirements.txt 
+ 1831  zappa init
+ 1832  zappa deploy dev
+ 1833  zappa init
+ 1834  zappa deploy dev
+ 1835  pip install awscli
+ 1836  zappa deploy dev
+ 1837  pip install awscli
+ 1838  aws configration
+ 1839  aws configrations
+ 1840  aws configure
+ 1841  zappa deploy dev
+ 1842  aws configure
+ 1843  zappa deploy dev
+ 1844  unset AWS_ACCESS_KEY_ID
+ 1845  unset AWS_SECRET_ACCESS_KEY
+ 1846  unset AWS_ACCESS_KEY_ID
+ 1847  zappa deploy dev
+ 1848  aws configure
+ 1849  zappa deploy dev
+ 1850  aws configure list
+ 1851  aws sts get-caller-identity
+ 1852  zappa deploy dev
+ 1853  aws configure
+ 1854  zappa deploy dev
+ 1855  echo $AWS_SECRET_ACCESS_KEY
+ 1856  unset AWS_ACCESS_KEY_ID
+ 1857  unset AWS_ACCESS_KEY_IDunset AWS_SECRET_ACCESS_KEY
+ 1858  unset AWS_SECRET_ACCESS_KEY
+ 1859  aws configure list
+ 1860  unset AWS_SECRET_ACCESS_KEY
+ 1861  unset AWS_ACCESS_KEY_ID
+ 1862  aws configure list
+ 1863  source .env/bin/activate 
+ 1864  aws configure list
+ 1865  zappa deploy dev
+ 1866  aws configure
+ 1867  zappa deploy dev
+ 1868  aws configure list
+ 1869  zappa deploy dev
+ 1870  aws configure 
+ 1871  zappa deploy dev
+ 1872  aws configure list
+ 1873  aws configure 
+ 1874  zappa deploy dev
+ 1875  cd ~
+ 1876  mkdir .aws
+ 1877  cd .aws/
+ 1878  ls
+ 1879  cat credentials 
+ 1880  cat config 
+ 1881  cat credentials 
+ 1882  cd ..
+ 1883  ls
+ 1884  ls -a
+ 1885  cd .aws/
+ 1886  cat credentials 
+ 1887  cat config 
+ 1888  cat  config > [default]
+ 1889  aws_access_key_id = AKIA6PYP5L54SPP2LGSO
+ 1890  aws_secret_access_key = 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
+ 1891  nano config 
+ 1892  cat config 
+ 1893  zappa deploy dev
+ 1894  source .env/bin/activate 
+ 1895  zappa deploy dev
+ 1896  aws configure 
+ 1897  zappa deploy dev
+ 1898  zappa 
+ 1899  zappa init
+ 1900  zappa deploy dev
+ 1901  zappa init
+ 1902  zappa deploy dev
+ 1903  pip install -r requirements.txt 
+ 1904  zappa deploy dev
+ 1905  pip install -r requirements.txt 
+ 1906  pip uninstall troposphere
+ 1907  pip install -r requirements.txt 
+ 1908  zappa deploy dev
+ 1909  zappa deploy update
+ 1910  zappa deploy dev
+ 1911  python
+ 1912  pyenv global  3.6.10
+ 1913  pyenv local  3.6.10
+ 1914  zappa deploy dev
+ 1915  pip install -r requirements.txt 
+ 1916  zappa deploy dev
+ 1917  pip install -r requirements.txt 
+ 1918  zappa deploy dev
+ 1919  zappa tail
+ 1920  zappa deploy dev
+ 1921  zappa tail
+ 1922  virtualenv -m venv env
+ 1923  virtualenv  venv env
+ 1924  virtualenv -p  venv env
+ 1925  python3.6.10   venv env
+ 1926  pyenv virtualenv env
+ 1927  source /home/thoughtwin/.pyenv/versions/env/bin/activate 
+ 1928  pip install -r requirements.txt 
+ 1929  zappa deploy dev
+ 1930  deactivate
+ 1931  python -m venv env
+ 1932  source env/bin/activate 
+ 1933  pip install -r requirements.txt 
+ 1934  zappa deploy dev
+ 1935  zappa tail
+ 1936  zappa -V
+ 1937  zappa -v
+ 1938  zappa tail
+ 1939  zappa deploy dev
+ 1940  pip install zappa==0.48.1
+ 1941  zappa tail
+ 1942  pip install zappa --upgrade
+ 1943  zappa tail
+ 1944  zappa deploy 
+ 1945  zappa tail dev
+ 1946  zappa template
+ 1947  zappa template dev
+ 1948  zappa deploy dev
+ 1949  pip install sqlite
+ 1950  pip install db-sqlite3
+ 1951  zappa deploy dev
+ 1952  pip install -r requirements.txt 
+ 1953  zappa deploy dev
+ 1954  zappa tail dev
+ 1955  django-admin
+ 1956  python django-app/manage.py runserver
+ 1957  zappa tail dev
+ 1958  pip install -r requirements.txt 
+ 1959  pyenv global 3.8
+ 1960  pyenv global 3.8.0
+ 1961  pyenv versions
+ 1962  pyenv global 3.8.10
+ 1963  pyenv reset
+ 1964  pyenv global 3.9.5
+ 1965  pyenv local 3.9.5
+ 1966  python3
+ 1967  python3.8.10
+ 1968  python3.8
+ 1969  python3.8 -m venv env
+ 1970  sudo apt install python3.8-venv
+ 1971  python3.8 -m venv env
+ 1972  source env/bin/activate 
+ 1973  pip install -r requirements.txt 
+ 1974  zappa deploy dev
+ 1975  zappa tail dev
+ 1976  zappa deploy dev
+ 1977  zappa tail dev
+ 1978  python3
+ 1979  zappa deploy dev
+ 1980  pip3 install –upgrade Django==2.1
+ 1981  pip install django ==2
+ 1982  pip install django==2
+ 1983  python django-app/manage.py runserver
+ 1984  python django-app/manage.py migrate
+ 1985  zappa deploy dev
+ 1986  zappa tail dev
+ 1987  cd django-app/
+ 1988  python manage.py runserver
+ 1989  zappa tail dev
+ 1990  zappa tail 
+ 1991  zappa update dev
+ 1992  zappa tail dev
+ 1993  zappa update dev
+ 1994  cd ..
+ 1995  zappa update dev
+ 1996  zappa deploy dev
+ 1997  zappa deploy dev\
+ 1998  zappa deploy dev
+ 1999  zappa init\
+ 2000  zappa init
+ 2001  source /home/thoughtwin/AWS/lambda/env/bin/activate
+ 2002  zappa init
+ 2003  zappa deploy dev
+ 2004  pip install django-s3-storage
+ 2005  zappa update dev
+ 2006  zappa manage dev "collectstatic --noinput"
+ 2007  zappa manage dev "createsuperuser"
+ 2008  history > cammands.txt 
